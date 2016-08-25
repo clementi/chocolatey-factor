@@ -10,10 +10,11 @@
     <projectUrl>http://factorcode.org/</projectUrl>
     <iconUrl>https://cdn.rawgit.com/factor/factor/9c295e679e0d8c78d862a8566fdf45ec23176678/misc/icons/icon_128x128.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Factor is a [concatenative](https://www.concatenative.org), stack-based programming language with [high-level features](https://concatenative.org/wiki/view/Factor/Features/The%20language) including dynamic types, extensible syntax, macros, and garbage collection. On a practical side, Factor has a [full-featured library](https://docs.factorcode.org/content/article-vocab-index.html), supports many different platforms, and has been extensively documented. 
+    <description>Factor is a [concatenative](https://www.concatenative.org), stack-based programming language with [high-level features](https://concatenative.org/wiki/view/Factor/Features/The%20language) including dynamic types, extensible syntax, macros, and garbage collection. On a practical side, Factor has a [full-featured library](https://docs.factorcode.org/content/article-vocab-index.html), supports many different platforms, and has been extensively documented.
 
 The implementation is [fully compiled](https://concatenative.org/wiki/view/Factor/Optimizing%20compiler) for performance, while still supporting [interactive development](https://concatenative.org/wiki/view/Factor/Interactive%20development). Factor applications are portable between all common platforms. Factor can [deploy stand-alone applications](https://concatenative.org/wiki/view/Factor/Deployment) on all platforms. Full source code for the Factor project is available under a BSD license.</description>
     <summary>The Factor programming language</summary>
+    <packageSourceUrl>http://github.com/clementi/chocolatey-factor</packageSourceUrl>
     <releaseNotes>[Release notes](https://re-factor.blogspot.com/2014/11/factor-097-now-available.html)</releaseNotes>
     <tags>factor</tags>
     <docsUrl>http://docs.factorcode.org/</docsUrl>
