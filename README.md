@@ -1,6 +1,6 @@
 # chocolatey-factor
 
-This repo contains a Chocolatey package for the [Factor](http://factorcode.org) programming language.
+This repo contains a [Chocolatey](http://chocolatey.org/) package for the [Factor](http://factorcode.org) programming language.
 
 ## Installation
 
